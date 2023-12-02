@@ -1,0 +1,15 @@
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.AssemblyInfoInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.AssemblyInfo.cs
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.csproj.CoreCompileInputs.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.sourcelink.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\bin\Debug\net8.0\lesson5-1.exe
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\bin\Debug\net8.0\lesson5-1.deps.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\bin\Debug\net8.0\lesson5-1.runtimeconfig.json
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\bin\Debug\net8.0\lesson5-1.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\bin\Debug\net8.0\lesson5-1.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\refint\lesson5-1.dll
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.pdb
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\lesson5-1.genruntimeconfig.cache
+C:\Users\allen\OneDrive\Рабочий стол\csnew\home_work\lesson5-1\obj\Debug\net8.0\ref\lesson5-1.dll
